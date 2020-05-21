@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dccpp-web-controller-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="dccpp-web-controller-js.jar">
+      <element id="module-output" name="dccpp-web-controller.jsMain" />
+    </root>
+  </artifact>
+</component>
